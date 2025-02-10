@@ -1,0 +1,5 @@
+scikit-learn==1.5.2
+Flask==3.0.2
+autogluon==1.2
+pandas==2.2.2
+gunicorn==21.2.0
